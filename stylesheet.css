@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+}
+
+header {
+  height: 65px;
+  background-color: rgba(34, 49, 52, 0.5);
+  width: 100%;
+  color: white;
+}
+
+.fa-portrait {
+  float: left;
+  margin: auto 0;
+  padding: 25px;
+}
+
+
+
+
+
+.top-wrapper {
+  background-image: url("./photo/IMG_0437.JPG");
+  width: 100%;
+  height: 800px;
+  background-size: cover;
+
+
+}
+
+.icon { 
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  padding-top: 16px;
+  
+}
+.icon img {
+  border-radius: 50%;
+  box-shadow: 1px 1px 5px #333333;
+}
+
+
+
+.container {
+  margin: 0 auto;
+  width: 1300px;
+  text-align: center;
+}
+
+h1 {
+  opacity: 0.9;
+  font-size: 45px;
+  letter-spacing: 4px;
+  font-family: 'Dela Gothic One', cursive;  font-weight: 400;
+  color: white;
+  letter-spacing: 0.03em;
+  margin: 0px 0px;
+  padding: 20px;
+  }
+
+ul {
+  list-style: none;
+}
+
+.literal {
+  font-family: 'Kiwi Maru', serif;
+  opacity: 0.7;
+}
+
+.lesson-wrapper {
+  background-color: #BDBDBD;
+  margin-top: 0px;
+}
+
+.lessons {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+
+}
+
+.lesson {
+  width: 30%;
+  padding: 5px;
+  text-align: center;
+  display: inline-block;
+}
+
+.photo {
+  width: 100%;
+}
+
+.btn {
+  padding: 10px;
+  border-radius: 10px;
+  opacity: 0.7;
+  display: inline-block;
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+.port1 {
+  background-color: aqua;
+}
+
+.port2 {
+  background-color: antiquewhite;
+}
+
+.port3 {
+  background-color: beige;
+}
+
+.btn:hover {
+  opacity: 1;
+  cursor: pointer;
+
+}
+
+.contact-form {
+  background-color: #BDBDBD;
+  font-family: 'Kiwi Maru', serif;
+  padding: 50px 0 50px 0;
+
+}
+input ,textarea {
+  width: 500px;
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid white;
+
+
+}
+
+textarea {
+  height: 100px;
+}
+
+footer {
+  height: 65px;
+  background-color: rgba(34, 49, 52, 0.5);
+  width: 100%;
+  color: white;
+}
